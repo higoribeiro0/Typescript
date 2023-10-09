@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "tsc-watch": "tsc"
+  }
+}
